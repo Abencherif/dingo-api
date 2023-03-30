@@ -1,5 +1,5 @@
 {
-    "name": "api-ecosystem-for-laravel/dingo-api",
+    "name": "abencherif/dingo-api",
     "description": "A RESTful API package for the Laravel and Lumen frameworks.",
     "keywords": [
         "api",
@@ -36,7 +36,7 @@
         "php-open-source-saver/jwt-auth": "^1.4"
     },
     "suggest": {
-        "abencherif/jwt-auth": "Protect your API with JSON Web Tokens."
+        "php-open-source-saver/jwt-auth": "Protect your API with JSON Web Tokens."
     },
     "autoload": {
         "psr-4": {

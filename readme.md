@@ -4,7 +4,7 @@ In order to move to this repo, you merely need to update your composer file. All
 
 ```bash
 composer remove dingo/api
-composer require api-ecosystem-for-laravel/dingo-api
+composer require abencherif/dingo-api
 ```
 
 Please note, we do not actively maintain the Lumen support of this project. If you are still using Lumen, we recommend you migrate to Laravel.
@@ -15,10 +15,10 @@ Please note, we do not actively maintain the Lumen support of this project. If y
 
 The Dingo API package is meant to provide you, the developer, with a set of tools to help you easily and quickly build your own API. While the goal of this package is to remain as flexible as possible it still won't cover all situations and solve all problems.
 
-[![Build Status](https://img.shields.io/travis/api-ecosystem-for-laravel/dingo-api/master.svg?style=flat-square)](https://travis-ci.org/api-ecosystem-for-laravel/dingo-api)
-[![License](https://img.shields.io/packagist/l/api-ecosystem-for-laravel/dingo-api.svg?style=flat-square)](LICENSE)
-[![Development Version](https://img.shields.io/packagist/vpre/api-ecosystem-for-laravel/dingo-api.svg?style=flat-square)](https://packagist.org/packages/api-ecosystem-for-laravel/dingo-api)
-[![Monthly Installs](https://img.shields.io/packagist/dm/api-ecosystem-for-laravel/dingo-api.svg?style=flat-square)](https://packagist.org/packages/api-ecosystem-for-laravel/dingo-api)
+[![Build Status](https://img.shields.io/travis/abencherif/dingo-api/master.svg?style=flat-square)](https://travis-ci.org/abencherif/dingo-api)
+[![License](https://img.shields.io/packagist/l/abencherif/dingo-api.svg?style=flat-square)](LICENSE)
+[![Development Version](https://img.shields.io/packagist/vpre/abencherif/dingo-api.svg?style=flat-square)](https://packagist.org/packages/abencherif/dingo-api)
+[![Monthly Installs](https://img.shields.io/packagist/dm/abencherif/dingo-api.svg?style=flat-square)](https://packagist.org/packages/abencherif/dingo-api)
 [![StyleCI](https://styleci.io/repos/452338988/shield)](https://styleci.io/repos/452338988)
 
 ## Features
